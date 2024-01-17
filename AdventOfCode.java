@@ -4,6 +4,6 @@ import java.util.*;
 class AdventOfCode {
     public static void main(String args[]) {
         List<String> input = InputHelpers.readInputToListString("inputs/" + args[0] + ".txt");
-        Day4.day4(input);
+        Day5.day5(input);
     }
 }
